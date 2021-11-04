@@ -1,0 +1,112 @@
+body {
+	background-color:azure;
+}
+#service{
+	font-size: 2em;
+}
+h1 {
+	font-size: 5em;
+	font-family: Helvetica;
+	color: rgb();
+}
+#container {
+	background-color: white;
+	width: 1100px;
+	margin: 0 auto;
+	margin-top: 3em;
+	margin-bottom: 3em;
+	margin-left: 6em;
+	margin-right: 2em;
+	border: 10px rgb(38, 178, 233) solid;
+}
+input, textarea, button {
+	display: block;
+	margin-top: 1em;
+	margin-left: 0.5em;
+}
+#male, #female {
+	margin-left: 2em;
+}
+#one, #two{
+	margin-left: 2em;
+}
+header {
+	background-color: rgb(38, 178, 233);
+	color: rgb(0, 38, 255);
+	border: 5px rgb(38, 178, 233) dashed;
+	text-align: center;
+	margin-bottom: 0px;
+	margin-right: 1em;
+	margin-top: 1em;
+	margin-left: 1em;
+	line-height: 0em;
+}
+h4 {
+	color: black;
+}
+h3 {
+	background-color: pink;
+	color: blue;
+	margin-top: 0px;
+}
+#website {
+	border: brown solid;
+	text-align: center;
+	margin-bottom: 5px;
+	margin-top: 1px;
+	background-color: #eeeeee;
+
+}
+h2 {
+	color: blue;
+	text-align: left;
+	background-color: pink;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+button{
+	margin-left: 2.5em;
+}
+aside {
+	width: 300px;
+	float: left;
+	margin-left: 1em;
+	margin-top: 1em;
+}
+form {
+	float: left;
+	background-color: pink;
+	width: 300px;
+}
+article {
+	float: right;
+	margin-top: 0px;
+	margin-right: 1em;
+	width: 740px;
+	background-color: #eeeeee;
+	margin-top: 1em;
+	padding-bottom: 20em;
+}
+footer {
+	clear: both;
+	margin-left: 1em;
+	margin-right: 1em;
+	margin-bottom: 1em;
+	background-color: #eeeeee;
+	border: brown solid;
+	color: brown;
+	text-align: center;
+}
+#genderone{
+	margin-left: 1em;
+	margin-top: 1em;
+	margin-bottom: 0em;
+	color: rgb(90 20 60);
+}
+#one{
+	display: inline-block;
+}
+
+#two{
+	display: inline-block;
+}
